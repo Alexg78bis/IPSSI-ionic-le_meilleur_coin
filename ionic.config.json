@@ -1,0 +1,7 @@
+{
+  "name": "Le Meilleur Coin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
